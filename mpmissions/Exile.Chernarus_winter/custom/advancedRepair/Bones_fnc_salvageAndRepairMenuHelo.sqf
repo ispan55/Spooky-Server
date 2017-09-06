@@ -1,3 +1,4 @@
+
 ASL_Show_Repair_Options_Menu_Array = 
 [
 	["Repair Menu",false],
@@ -16,5 +17,5 @@ showCommandingMenu "#USER:ASL_Show_Repair_Options_Menu_Array";
 salvage_setup = {
 _vehicle = cursorObject;
 _action = _this select 0;
-[_action,_vehicle] execVM 'Custom\advancedRepair\Bones_fnc_salvageAndRepair.sqf';
+[_action,_vehicle] execVM 'custom\advancedRepair\Bones_fnc_salvageAndRepair.sqf';
 };

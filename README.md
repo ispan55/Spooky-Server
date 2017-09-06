@@ -1,4 +1,4 @@
-# Spooky-Server
+#Spooky-Server
 
 DayZ Mod Recreation - Survive, Build, PVP
 
@@ -18,7 +18,7 @@ Current mods installed -mod=
 @NIArsenal;  
 @TAC VESTS;  
 @Exile;  
-@Open Chernarus Project;  
+@DS_Houses (Change if needed, As @Open Chernarus Project has been removed from the A3Launcher)
 
 The directory structure is the same as the production server.
 

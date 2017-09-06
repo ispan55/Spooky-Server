@@ -787,8 +787,7 @@
 3, B_Carryall_ocamo
 3, B_Carryall_khk
 3, B_Carryall_mcamo
-3, G_Carryall_Ammo                 // High Capacity Backpacks
-3, B_Carryall_oucamo
+3, B_Carryall_oucamo                 // High Capacity Backpacks
 3, TRYK_B_Coyotebackpack_BLK
 3, TRYK_B_Coyotebackpack
 3, TRYK_B_Coyotebackpack_OD
